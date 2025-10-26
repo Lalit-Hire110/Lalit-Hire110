@@ -1,16 +1,106 @@
-## Hi there 👋
-
-<!--
-**Lalit-Hire110/Lalit-Hire110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+{
+  "version": "1.0.0",
+  "exportedAt": "2025-10-26T11:12:50.363Z",
+  "profile": {
+    "title": "Lalit K Hire ",
+    "subtitle": "Data Science | Machine Learning | AI",
+    "currentWork": "System of Air Forecasting using AI and ML",
+    "currentLearn": "GNN",
+    "collaborateOn": "GSOC",
+    "helpWith": "Development Stuff !",
+    "ama": "Data Science and AI ",
+    "contact": "lalithire110@gmail.com",
+    "funFact": "I am studying data science ever since 2021 when we can count number of those knowing about the field on fingers. also, I was in 11th standard at that time. ",
+    "visitorsBadge": false,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": false,
+    "githubStats": false,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": false,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": false,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "",
+    "blog": "",
+    "resume": ""
+  },
+  "social": {
+    "github": "Lalit-Hire110",
+    "dev": "",
+    "linkedin": "lalit-hire-l1102004",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "",
+    "instagram": "",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "",
+    "codechef": "",
+    "hackerrank": "",
+    "codeforces": "",
+    "leetcode": "",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "anaconda",
+    "aws",
+    "django",
+    "flask",
+    "huggingface",
+    "jupyter",
+    "keras",
+    "matplotlib",
+    "mysql",
+    "numpy",
+    "ollama",
+    "opencv",
+    "pandas",
+    "postgresql",
+    "python",
+    "pytorch",
+    "scikit_learn",
+    "seaborn",
+    "streamlit",
+    "tensorflow"
+  ]
+}
