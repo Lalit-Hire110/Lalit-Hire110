@@ -11,7 +11,7 @@ I've been passionate about Data Science since 2021, when the field was still eme
 - 🔭 **Currently Working On:** System of Air Forecasting using AI and ML
 - 🌱 **Currently Learning:** ML, AI, Graph Neural Networks (GNN) ETC
 - 👯 **Looking to Collaborate On:** Google Summer of Code (GSOC)
-- 💡 **I Can Help With:** Development Stuff!
+- 💡 **I Can Help With:** Anything Related to Data and AI, Machine Learning !
 - 💬 **Ask Me About:** Data Science and AI
 - 📫 **Reach me at:** lalithire110@gmail.com
 
