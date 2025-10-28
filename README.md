@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lalit K Hire 
+# 👋 Hi, I'm Lalit K Hire Pronunciation: "Hi-ray"
 
 **Data Science | Machine Learning | AI Enthusiast**
 
