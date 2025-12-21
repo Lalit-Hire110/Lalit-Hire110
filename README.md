@@ -8,7 +8,7 @@
 
 I've been passionate about Data Science since 2021, when the field was still emerging and few people knew about it. What's even more interesting - I was just in 11th grade at that time! 
 
-- 🔭 **Currently Working On:** System of Air Forecasting using AI and ML (SAFAL) updation to India's Existing Air Quality Forecasting System
+- 🔭 **Currently Working On:** End-to-End project's and Interview Preperation
 - 🌱 **Currently Learning:** ML, AI, Graph Neural Networks (GNN) ETC
 - 👯 **Looking to Collaborate On:** Google Summer of Code (GSOC)
 - 💡 **I Can Help With:** Anything Related to Data and AI, Machine Learning !
