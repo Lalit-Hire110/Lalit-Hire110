@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Lalit K Hire Pronunciation: "Hi-ray"
 
-**B.Sc. Data Science | Python, SQL, ML, Power BI, Tableau, Excel | IBM & Google Certified | Open to Internships & Entry-Level Roles**
+**B.S Data Science(Honours) | Python, SQL, ML, Power BI, Tableau, Excel | IBM & Google Certified | Open to Internships & Entry-Level Roles**
 
 ---
 
 ## 🚀 About Me
 
-B.Sc. Data Science (Honors) student with focus on transforming raw data into decision-ready insights through modeling, visualization, and effective communication. Intrigued by Artificial Intelligence since childhood, began exploring Data Science in 2021. Completed **8 internships** and acquired **50+ certifications** from IBM, Google, and other credible organizations.
+B.S Data Science (Honors) student with focus on transforming raw data into decision-ready insights through modeling, visualization, and effective communication. Intrigued by Artificial Intelligence since childhood, began exploring Data Science in 2021. Completed **8 internships** and acquired **50+ certifications** from IBM, Google, and other credible organizations.
 
 Experience includes end-to-end data workflows: acquisition, processing, EDA, and ML model development using Python, SQL, Power BI, NLP, and Computer Vision. Led national-level team project for ISRO at **Smart India Hackathon 2025**, securing **6th All India Rank**.
 
