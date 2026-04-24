@@ -10,7 +10,7 @@ B.S Data Science (Honors) student with focus on transforming raw data into decis
 
 Experience includes end-to-end data workflows: acquisition, processing, EDA, and ML model development using Python, SQL, Power BI, NLP, and Computer Vision. Led national-level team project for ISRO at **Smart India Hackathon 2025**, securing **6th All India Rank**.
 
-🎯 Currently searching for entry-level opportunities or intern positions. Also working on **ChatREL research prototype** for analyzing conversational behavior and researching **Contextual Semantic Memory** concept with ambitions to publish research paper.
+🎯 Working on multiple projects, Research Papers and Self Improvement.
 
 - 🔭 **Currently Working On:** ChatREL research prototype, AI/ML internship projects, and entry-level job preparation
 - 🌱 **Currently Learning:** Advanced ML (XGBoost, LightGBM), Azure AI, Emerging Technologies, NLP
