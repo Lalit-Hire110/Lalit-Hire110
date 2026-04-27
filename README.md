@@ -106,7 +106,7 @@ I enjoy building projects that are practical, research-driven, and a little bit 
 
 **B.Sc. Data Science (Honours)**  
 Savitribai Phule Pune University (SPPU)  
-**Jul 2023 - Aug 2026 (Expected)**
+**Jul 2023 - Aug 2027 (Expected)**
 
 **Relevant Coursework:** IoT, Computer Vision, Time Series Analysis, AI, Statistics, SQL, Python
 
@@ -193,7 +193,7 @@ Savitribai Phule Pune University (SPPU)
 ---
 
 **Open to Work:** Data Analyst, Data Scientist, and Machine Learning Engineer roles  
-**Location:** Pune, Maharashtra, India  
+**Location:** Pune, Nashik, Maharashtra, India  
 **Portfolio:** [GitHub Repositories](https://github.com/Lalit-Hire110?tab=repositories)
 
 ---
