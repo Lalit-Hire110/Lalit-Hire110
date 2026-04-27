@@ -1,115 +1,140 @@
-# 👋 Hi, I'm Lalit K Hire Pronunciation: "Hi-ray"
+# Hi, I'm Lalit K Hire  
+**Pronunciation:** "Hi-ray"
 
-**B.S Data Science(Honours) | Python, SQL, ML, Power BI, Tableau, Excel | IBM & Google Certified | Open to Internships & Entry-Level Roles**
-
----
-
-## 🚀 About Me
-
-B.S Data Science (Honors) student with focus on transforming raw data into decision-ready insights through modeling, visualization, and effective communication. Intrigued by Artificial Intelligence since childhood, began exploring Data Science in 2021. Completed **8 internships** and acquired **50+ certifications** from IBM, Google, and other credible organizations.
-
-Experience includes end-to-end data workflows: acquisition, processing, EDA, and ML model development using Python, SQL, Power BI, NLP, and Computer Vision. Led national-level team project for ISRO at **Smart India Hackathon 2025**, securing **6th All India Rank**.
-
-🎯 Working on multiple projects, Research Papers and Self Improvement.
-
-- 🔭 **Currently Working On:** ChatREL research prototype, AI/ML internship projects, and entry-level job preparation
-- 🌱 **Currently Learning:** Advanced ML (XGBoost, LightGBM), Azure AI, Emerging Technologies, NLP
-- 💼 **Active Internships:** Edunet Foundation (AI/ML Intern + Microsoft Elevate Program)
-- 🏆 **Recent Achievement:** Smart India Hackathon 2025 - Top 6 All India Rank (SAFAL Project)
-- 💡 **I Can Help With:** Data Science, Machine Learning, Data Analysis, Python, SQL, Power BI
-- 💬 **Ask Me About:** Data Science, AI, ML Projects, Hackathon Strategies
-- 📫 **Reach me at:** lalithire110@gmail.com
+**B.Sc. Data Science (Honours) | Python, SQL, ML, Power BI, Tableau, Excel | IBM & Google Certified | Open to Internships & Entry-Level Roles**
 
 ---
 
-## 💼 Experience Highlights
+## About Me
 
-### Current Positions (Feb 2026)
-- **Artificial Intelligence & Machine Learning Intern** @ Edunet Foundation (Jan 2026 - Present)
-  - Merit-based internship through IBM SkillsBuild platform
-  - Leading independent AI/ML research project from problem identification to solution
-  - AICTE & Edunet Foundation co-awarded certification
+I am a B.Sc. Data Science (Honours) student focused on turning raw data into useful decisions through analysis, modeling, visualization, and clear communication.
 
-- **AI & Emerging Technologies Intern (Microsoft Elevate Program)** @ Edunet Foundation (Jan 2026 - Present)
-  - Selected for Microsoft Elevate 4-Week Internship under AICTE
-  - Exposure to Azure Fundamentals and emerging tech concepts
-  - Real-world problem-solving with expert-led masterclasses
+I have been exploring Data Science and AI since 2021, and my work spans data acquisition, preprocessing, exploratory analysis, machine learning, and dashboarding using Python, SQL, Power BI, NLP, and Computer Vision.
 
-### Recent Internships
-- **Virtual Intern - Data Visualization** @ Infosys Springboard 6.0 (Sep 2025 - Dec 2025)
-  - Worked on aviation analytics using Python, SQL, and Power BI
-  - Analyzed 3M+ flight records over 4.6 years
-  - Built two-stage delay prediction model with XGBoost (92% accuracy for high-delay classification)
-  - Developed executive-level Power BI dashboards
+I enjoy building projects that are practical, research-driven, and a little bit ambitious. My current focus is on AI/ML projects, research work, and strengthening my profile for internships and entry-level roles.
 
-- **AI Intern (Shell-Edunet Skills4Future)** @ Edunet Foundation (Aug 2025 - Sep 2025)
-  - AICTE internship focusing on AI foundational skills
-  - Worked independently on project with mentor guidance
+### Current Focus
+- Working on research and project development in Data Science and AI
+- Building and refining ML-based systems with real-world use cases
+- Improving my skills in advanced ML, NLP, and deployment
+- Preparing for internships and entry-level data roles
 
-- **Data Analyst Intern** @ SPPU Department of Technology (Dec 2024)
-  - Contributed to **Guinness World Record** for largest online photo album (1,111,238 photos)
-  - Data collection, cleaning, preprocessing, and ML algorithm training
+### What I Can Help With
+- Data Science
+- Machine Learning
+- Data Analysis
+- Python
+- SQL
+- Power BI
+- Project structuring and hackathon strategy
 
----
+### Ask Me About
+- Data Science projects
+- AI/ML workflows
+- Data visualization
+- Hackathon problem solving
+- Research-oriented student projects
 
-## 🏆 Featured Projects
-
-### 1. **SAFAL - System for Air Quality Forecasting** (Smart India Hackathon 2025 - Top 6)
-- Multi-source data-fusion ML pipeline for 24-48h hourly air quality forecasting (NO₂, O₃, PM2.5)
-- Processed 1,039,390 INSAT image crops + CPCB ground data + ERA5/MERRA-2 reanalysis
-- Final training table: 102,720 rows × 83 columns with 228,973 cached features
-- XGBoost/LightGBM models with physics-aware feature engineering
-- PM2.5 baseline: RMSE ≈ 27.98 μg/m³, R² ≈ 0.676
-- **Outcome:** Top-6 All India Rank at SIH 2025
-
-### 2. **ChatREL - WhatsApp Relationship Analyzer** (v4)
-- Research-grade prototype analyzing conversations to classify relationship types
-- Combines behavioral feature engineering with lightweight NLP signals
-- Implemented **Contextual Semantic Memory (CSM)** for efficiency
-- Window-level modeling (50-200 messages) with sentiment/emotion scoring
-- Built synthetic chat data generator for class-balanced training
-- 6-credit academic project, expanding to Major project
-
-### 3. **AeroBridge - Satellite Imagery & Pollution Analysis**
-- Bridging satellite imagery with ground-based air quality measurements
-- Processed 1,039,390 INSAT images + 14,000+ hours CPCB data
-- 115,660 merged records, 228,973 extracted features
-- ML-ready datasets for LightGBM, XGBoost, and CNN experiments
+### Reach Me At
+- **Email:** lalithire110@gmail.com
 
 ---
 
-## 🎓 Education
+## Experience Highlights
 
-**B.Sc. Data Science (Honors)** | Savitribai Phule Pune University (SPPU)  
-*Jul 2023 - Aug 2026 (Expected)*
+### Artificial Intelligence & Machine Learning Intern  
+**Edunet Foundation** | Jan 2026 - Present
+- Merit-based internship through IBM SkillsBuild
+- Working on an independent AI/ML research project from problem definition to solution design
+- Gaining hands-on experience with applied ML workflows and structured problem solving
 
-Coursework: IoT, Computer Vision, Time Series Analysis, AI, Statistics, SQL, Python
+### AI & Emerging Technologies Intern  
+**Edunet Foundation** | Jan 2026 - Present
+- Selected for the Microsoft Elevate 4-Week Internship under AICTE
+- Exposure to Azure fundamentals and emerging technology concepts
+- Learning through expert-led sessions and real-world problem-solving
+
+### Virtual Intern - Data Visualization  
+**Infosys Springboard 6.0** | Sep 2025 - Dec 2025
+- Worked on aviation analytics using Python, SQL, and Power BI
+- Analyzed millions of flight records over multiple years
+- Built a two-stage delay prediction pipeline with XGBoost
+- Designed executive-level dashboards for decision support
+
+### AI Intern  
+**Shell-Edunet Skills4Future** | Aug 2025 - Sep 2025
+- AICTE-supported internship focused on AI fundamentals
+- Worked on guided project-based learning with mentor support
+
+### Data Analyst Intern  
+**SPPU Department of Technology** | Dec 2024
+- Contributed to a Guinness World Record-scale project
+- Handled data collection, cleaning, preprocessing, and model training tasks
 
 ---
 
-## 📜 Certifications
+## Featured Projects
 
-- 🥇 **IBM Data Science Professional Certificate** (Dec 2021)
-- 🥇 **Google Data Analytics Specialization** (Jul 2024)
-- 🥇 **Google IT Automation with Python Specialization** (Dec 2021)
-- 🎓 **Mastering Generative AI & ChatGPT** - GeeksforGeeks (Jun 2025)
-- 🎓 **TechA Data Analytics using Power BI Foundation** - Infosys Springboard (Jun 2025)
-- 🎓 **Python for Everybody Specialization** - University of Michigan (Oct 2021)
-- 🎓 **Relevel by Unacademy Data Science Course** (Feb 2023)
+### SAFAL - System for Air Quality Forecasting
+**Smart India Hackathon 2025 | Top 6 All India Rank**
+- Multi-source machine learning pipeline for 24-48 hour air quality forecasting
+- Combined satellite imagery, ground measurements, and reanalysis data
+- Used feature engineering and models such as XGBoost and LightGBM
+- Built for practical forecasting and policy-relevant analysis
 
-*...and 40+ more certifications in Data Science, ML, AI, and Analytics*
+### AccessLens - AI-Powered Benefit Access Risk Simulator
+- Built to analyze non-financial barriers to welfare access
+- Focused on eligibility reasoning, exclusion risk, and counterfactual simulation
+- Designed as an explanation-first system for inclusive governance
+- Ongoing work around AI response quality, scheme metadata, and better semantic reasoning
+
+### ChatREL - WhatsApp Relationship Analyzer
+- Research prototype for analyzing conversation patterns and relationship signals
+- Uses behavioral features, sentiment, and lightweight NLP
+- Built with window-level modeling and synthetic data generation
+- Designed as a serious academic project with a data science backbone
+
+### Wind Resource Assessment & Forecasting Research
+- Working on industry-level wind data analysis and forecasting research
+- Using large weather and terrain datasets for ML-based modeling
+- Focused on realistic evaluation, drift reduction, and better rollout stability
+- This is one of my most serious current technical tracks
 
 ---
 
-## 🛠️ Tech Stack
+## Education
 
-### **Programming & Data Science**
+**B.Sc. Data Science (Honours)**  
+Savitribai Phule Pune University (SPPU)  
+**Jul 2023 - Aug 2026 (Expected)**
+
+**Relevant Coursework:** IoT, Computer Vision, Time Series Analysis, AI, Statistics, SQL, Python
+
+---
+
+## Certifications
+
+- **IBM Data Science Professional Certificate** (Dec 2021)
+- **Google Data Analytics Specialization** (Jul 2024)
+- **Google IT Automation with Python Specialization** (Dec 2021)
+- **Mastering Generative AI & ChatGPT** - GeeksforGeeks (Jun 2025)
+- **TechA Data Analytics using Power BI Foundation** - Infosys Springboard (Jun 2025)
+- **Python for Everybody Specialization** - University of Michigan (Oct 2021)
+- **Relevel by Unacademy Data Science Course** (Feb 2023)
+
+*And many more certifications in Data Science, AI, ML, and Analytics.*
+
+---
+
+## Tech Stack
+
+### Programming & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### **Machine Learning & Deep Learning**
+### Machine Learning & Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -117,24 +142,24 @@ Coursework: IoT, Computer Vision, Time Series Analysis, AI, Statistics, SQL, Pyt
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
 
-### **Data Visualization & BI Tools**
+### Data Visualization & BI Tools
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### **Databases & Cloud**
+### Databases & Cloud
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### **Web Development & Deployment**
+### Web Development & Deployment
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### **Tools & Platforms**
+### Tools & Platforms
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -143,7 +168,7 @@ Coursework: IoT, Computer Vision, Time Series Analysis, AI, Statistics, SQL, Pyt
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lalit-Hire110&show_icons=true&theme=radical)
 
@@ -153,7 +178,7 @@ Coursework: IoT, Computer Vision, Time Series Analysis, AI, Statistics, SQL, Pyt
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lalit-hire-l1102004)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lalit-Hire110)
@@ -161,16 +186,16 @@ Coursework: IoT, Computer Vision, Time Series Analysis, AI, Statistics, SQL, Pyt
 
 ---
 
-## 📊 Profile Stats
+## Profile Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lalit-Hire110&color=blueviolet&style=flat-square)
 
 ---
 
-⭐ **Open to Work:** Data Analyst, Data Scientist, and Machine Learning Engineer roles  
-📍 **Location:** Pune, Maharashtra, India  
-🔗 **Portfolio:** [GitHub Repositories](https://github.com/Lalit-Hire110?tab=repositories)
+**Open to Work:** Data Analyst, Data Scientist, and Machine Learning Engineer roles  
+**Location:** Pune, Maharashtra, India  
+**Portfolio:** [GitHub Repositories](https://github.com/Lalit-Hire110?tab=repositories)
 
 ---
 
-⭐ **From** [Lalit-Hire110](https://github.com/Lalit-Hire110)
+**From** [Lalit-Hire110](https://github.com/Lalit-Hire110)
