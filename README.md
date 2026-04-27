@@ -107,6 +107,7 @@ I enjoy building projects that are practical, research-driven, and a little bit 
 **B.Sc. Data Science (Honours)**  
 Savitribai Phule Pune University (SPPU)  
 **Jul 2023 - Aug 2027 (Expected)**
+**GPA: 9.06**
 
 **Relevant Coursework:** IoT, Computer Vision, Time Series Analysis, AI, Statistics, SQL, Python
 
