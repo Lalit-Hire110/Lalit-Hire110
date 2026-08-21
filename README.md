@@ -23,11 +23,15 @@ I am a B.Sc. Data Science (Honours) student focused on turning raw data into use
 <div align="center">
   <table>
     <tr>
-      <td><strong>Artificial Intelligence & Machine Learning Intern</strong><br>Edunet Foundation | Jan 2026 - Present</td>
+      <td><strong>Freelance AI Solutions Developer</strong><br> | Jan 2026 - present</td>
+      <td>Working on Research, handling personal and client projects</td>
+    </tr>
+    <tr>
+      <td><strong>Artificial Intelligence & Machine Learning Intern</strong><br>Edunet Foundation | Jan 2026 - Mar 2026</td>
       <td>Merit-based internship through IBM SkillsBuild. Working on an independent AI/ML research project from problem definition to solution design. Gaining hands-on experience with applied ML workflows and structured problem solving.</td>
     </tr>
     <tr>
-      <td><strong>AI & Emerging Technologies Intern</strong><br>Edunet Foundation | Jan 2026 - Present</td>
+      <td><strong>AI & Emerging Technologies Intern</strong><br>Edunet Foundation | Jan 2026 - Mar 2026</td>
       <td>Selected for the Microsoft Elevate 4-Week Internship under AICTE. Exposure to Azure fundamentals and emerging technology concepts. Learning through expert-led sessions and real-world problem-solving.</td>
     </tr>
     <tr>
