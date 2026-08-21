@@ -71,7 +71,7 @@ I am a B.Sc. Data Science (Honours) student focused on turning raw data into use
 <p align="center">
 <strong>B.Sc. Data Science (Honours)</strong><br>
 Savitribai Phule Pune University (SPPU)<br>
-Jul 2023 - Aug 2027 (Expected) | GPA: 9.06<br>
+Jul 2023 - Aug 2027 (Expected) | GPA: 9.19<br>
 Relevant Coursework: IoT, Computer Vision, Time Series Analysis, AI, Statistics, SQL, Python
 </p>
 
