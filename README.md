@@ -8,7 +8,7 @@
 <p align="center"><i>Pronunciation: "Hi-ray"</i></p>
 
 <p align="center">
-I am a B.Sc. Data Science (Honours) student focused on turning raw data into useful decisions through analysis, modeling, visualization, and clear communication. I have been exploring Data Science and AI since 2021, and my work spans data acquisition, preprocessing, exploratory analysis, machine learning, and dashboarding using Python, SQL, Power BI, NLP, and Computer Vision. I enjoy building projects that are practical, research-driven, and a little bit ambitious. My current focus is on AI/ML projects, research work, and strengthening my profile for internships and entry-level roles.
+I am a B.Sc. Data Science (Honours) student focused on turning raw data into useful decisions through analysis, modeling, visualization, and clear communication. I have been exploring Data Science and AI since 2021, and my work spans data acquisition, preprocessing, exploratory analysis, machine learning, and dashboarding using Python, SQL, Power BI, NLP, and Computer Vision. I enjoy building projects that are practical, research-driven, and a little bit ambitious. My current focus is on AI/ML projects, research work, Universal Post Composer and strengthening my profile for internships and entry-level roles.
 </p>
 
 <h2 align="center">Current Focus</h2>
