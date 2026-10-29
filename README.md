@@ -16,7 +16,7 @@ I am a B.Sc. Data Science (Honours) student focused on turning raw data into use
 - Working on research and project development in Data Science and AI<br>
 - Building and refining ML-based systems with real-world use cases<br>
 - Improving my skills in advanced ML, NLP, and deployment<br>
-- Preparing for internships and entry-level data roles
+- Preparing for internships and entry-level data roles & start ups
 </p>
 
 <h2 align="center">Experience Highlights</h2>
