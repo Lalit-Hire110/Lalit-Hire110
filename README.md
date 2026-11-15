@@ -62,7 +62,7 @@ I am a B.Sc. Data Science (Honours) student focused on turning raw data into use
     </tr>
     <tr>
       <td><strong>ChatREL - WhatsApp Relationship Analyzer</strong></td>
-      <td>Research prototype for analyzing conversation patterns and relationship signals. Uses behavioral features, sentiment, and lightweight NLP. Built with window-level modeling and synthetic data generation. Designed as a serious academic project with a data science backbone.</td>
+      <td>Research prototype for analyzing conversation patterns and relationship signals. Uses behavioral features, sentiment, and lightweight NLP. Built with window-level modeling and synthetic data generation. Designed as a serious academic project with a data science backbone. can become very good Pro duct</td>
     </tr>
     <tr>
       <td><strong>Wind Resource Assessment & Forecasting Research</strong></td>
