@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Lalit K Hire</h1>
-<h3 align="center">B.Sc. Data Science (Honours) | Python, SQL, ML, Power BI, Tableau, Excel | IBM & Google Certified | Open to Internships & Entry-Level Roles</h3>
+<h3 align="center">B.Sc. Data Science (Honours) | Python, SQL, ML, Power BI, Tableau, Excel | IBM & Google Certified </h3>
 <p align="center"><i>Pronunciation: "Hi-ray"</i></p>
 
 <p align="center">
