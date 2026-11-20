@@ -23,7 +23,7 @@ I am a B.Sc. Data Science (Honours) student focused on turning raw data into use
 <div align="center">
   <table>
     <tr>
-      <td><strong>Freelance AI Solutions Developer</strong><br> | Jan 2026 - present</td>
+      <td><strong>Freelance AI Solutions, Full-Stack, Machine Learning Developer</strong><br> | Jan 2026 - present</td>
       <td>Working on Research, handling personal and client projects</td>
     </tr>
     <tr>
